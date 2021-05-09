@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pfdemarco/ReactPortfoliostatic/css/main.3a6235f4.chunk.css",
+    "main.js": "/pfdemarco/ReactPortfoliostatic/js/main.95e64dd0.chunk.js",
+    "main.js.map": "/pfdemarco/ReactPortfoliostatic/js/main.95e64dd0.chunk.js.map",
+    "runtime-main.js": "/pfdemarco/ReactPortfoliostatic/js/runtime-main.82c2ac1b.js",
+    "runtime-main.js.map": "/pfdemarco/ReactPortfoliostatic/js/runtime-main.82c2ac1b.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/pfdemarco/ReactPortfoliostatic/css/2.af3c1da9.chunk.css",
+    "static/js/2.d7c9cdc5.chunk.js": "/pfdemarco/ReactPortfoliostatic/js/2.d7c9cdc5.chunk.js",
+    "static/js/2.d7c9cdc5.chunk.js.map": "/pfdemarco/ReactPortfoliostatic/js/2.d7c9cdc5.chunk.js.map",
+    "index.html": "/pfdemarco/ReactPortfolioindex.html",
+    "precache-manifest.60ae2683e736a1b95b962870d06c3b7e.js": "/pfdemarco/ReactPortfolioprecache-manifest.60ae2683e736a1b95b962870d06c3b7e.js",
+    "service-worker.js": "/pfdemarco/ReactPortfolioservice-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/pfdemarco/ReactPortfoliostatic/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.3a6235f4.chunk.css.map": "/pfdemarco/ReactPortfoliostatic/css/main.3a6235f4.chunk.css.map",
+    "static/js/2.d7c9cdc5.chunk.js.LICENSE.txt": "/pfdemarco/ReactPortfoliostatic/js/2.d7c9cdc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82c2ac1b.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d7c9cdc5.chunk.js",
+    "static/css/main.3a6235f4.chunk.css",
+    "static/js/main.95e64dd0.chunk.js"
+  ]
+}

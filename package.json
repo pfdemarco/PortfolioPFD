@@ -41,5 +41,13 @@
   "description": "This page was created to showcase some of my work that I have done while learning web development.",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfdemarco/ReactPortfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pfdemarco/ReactPortfolio/issues"
+  },
+  "homepage": "https://github.com/pfdemarco/ReactPortfolio#readme"
 }
